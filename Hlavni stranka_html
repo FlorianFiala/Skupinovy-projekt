@@ -1,0 +1,37 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ovoce světa</title>
+        <link rel="stylesheet" href="skolagrafika.css">
+    </head>
+    <body>
+      
+        <table id="HT" style="width:100%">
+            <td>
+                <th id="HN">Ovoce světa</th>
+            </td>
+        </table>
+
+
+        
+        <table id="PT" style="width: 15%;">
+            <td>
+                <th id="REKLAMY1">Reklamy</th>
+            </td>
+
+        </table>
+
+
+
+        <table id="LT" style="width:15%">
+            <td>
+                <td>Odkazy na stranky</td>
+            </td>
+        
+        </table>
+
+
+
+    </body>
+</html>
