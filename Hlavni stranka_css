@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#HT {
+    background-color: aquamarine;
+    height: 150px;
+}
+
+#LT {
+    background-color: lightgray;
+    height: 100%;
+}
+
+#HN {
+    font-size: 89px;
+}
+
+#PT {
+    background-color: lightgray;
+    height: 100%;
+    float: right;
+}
