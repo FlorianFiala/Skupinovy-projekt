@@ -21,3 +21,9 @@ body {
     height: 100%;
     float: right;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
