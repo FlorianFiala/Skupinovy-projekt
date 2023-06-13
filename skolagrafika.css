@@ -1,0 +1,38 @@
+body {
+  background-color: gainsboro;
+}
+
+#HT {
+  background-color: aquamarine;
+  height: 100px;
+  text-align: center;
+}
+
+#LT {
+  background-color: lightgray;
+  height: 100%;
+  float: left;
+}
+
+#HN {
+  font-size: 89px;
+  text-align: center;
+}
+
+#PT {
+  background-color: orange;
+  height: 100%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#PB {
+  text-align:left;
+  float:center;
+  width: 70%;
+}
