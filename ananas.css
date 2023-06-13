@@ -1,0 +1,36 @@
+body {
+    background-color: orange;
+  }
+  
+  #HT {
+    background-color: aquamarine;
+    height: 150px;
+  }
+  
+  #LT {
+    background-color: lightgray;
+    height: 100%;
+    float: left;
+  }
+  
+  #HN {
+    font-size: 89px;
+  }
+  
+  #PT {
+    background-color: orange;
+    height: 100%;
+    float: right;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #PB {
+    text-align:left;
+    float:center;
+    width: 70%;
+  }
