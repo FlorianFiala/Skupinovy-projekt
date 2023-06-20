@@ -1,36 +1,62 @@
 body {
-    background-color: pink;
-  }
-  
-  #HT {
-    background-color: aquamarine;
-    height: 150px;
-  }
-  
-  #LT {
-    background-color: lightgray;
-    height: 100%;
-    float: left;
-  }
-  
-  #HN {
-    font-size: 89px;
-  }
-  
-  #PT {
-    background-color: orange;
-    height: 100%;
-    float: right;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  #PB {
-    text-align:left;
-    float:center;
-    width: 70%;
-  }
+  background-color: rgb(236, 236, 236);
+}
+
+
+.stred {
+  float: left;
+  height: 100%;
+}
+
+#nadpis {
+  text-align: center;
+  font-size: 40px;
+}
+
+.navbar {
+  float: right;
+  height: 100%;
+  border-left: solid 1px;
+  text-align: center;
+}
+
+#hltitulek {
+  font-size: 38px;
+  margin: 10px 10px 20px 10px;
+  font-family: Verdana, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 21px;
+}
+
+li a {
+  display: block;
+}
+
+#skolawebli {
+  margin: 10px 15px 15px 10px;
+}
+
+#draciovoceli {
+  margin: 10px 15px 15px 10px;
+}
+
+#licili {
+  margin: 10px 15px 15px 10px;
+}
+
+#ananasli {
+  margin: 10px 15px 15px 10px;
+}
+
+#bananli {
+  margin: 10px 15px 15px 10px;
+}
+
+#citronli {
+  margin: 10px 15px 15px 10px;
+}
