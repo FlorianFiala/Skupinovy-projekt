@@ -8,10 +8,6 @@ body {
   height: 100%;
 }
 
-#nadpis {
-  text-align: center;
-  font-size: 40px;
-}
 
 .navbar {
   float: right;
@@ -35,28 +31,44 @@ ul {
 
 li a {
   display: block;
+  color: black;
+  text-decoration-line: none;
 }
 
 #skolawebli {
-  margin: 10px 15px 15px 10px;
+	color: black;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
 }
 
 #draciovoceli {
-  margin: 10px 15px 15px 10px;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
 }
 
 #licili {
-  margin: 10px 15px 15px 10px;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
 }
 
 #ananasli {
-  margin: 10px 15px 15px 10px;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
 }
 
 #bananli {
-  margin: 10px 15px 15px 10px;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
 }
 
 #citronli {
-  margin: 10px 15px 15px 10px;
+	margin: 10px 15px 15px 10px;
+	border: 2px solid;
+	border-radius: 7px;
+	text-align: center;
 }
