@@ -4,15 +4,27 @@ body {
 
 
 .stred {
-  float: left;
+  float: right;
   height: 100%;
 }
-
+.napbar {
+	float: ; right;
+	height: 100%;
+	border-right: solid 1px ;
+	text-align: center;
+	}
 
 .navbar {
   float: right;
   height: 100%;
   border-left: solid 1px;
+	text-align: center;
+}
+
+.navbar {
+  float: left;
+  height: 100%;
+  border-right: solid 1px;
   text-align: center;
 }
 
